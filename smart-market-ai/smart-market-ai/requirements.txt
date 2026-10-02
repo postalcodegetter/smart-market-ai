@@ -1,0 +1,16 @@
+pandas
+numpy
+yfinance
+colorama
+tabulate
+matplotlib
+plotly
+scikit-learn
+joblib
+streamlit
+torch
+einops==0.8.1
+huggingface-hub
+tqdm
+alpaca-py
+transformers
